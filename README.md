@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![An image of @aesherman6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aesherman6)](https://holopin.io/@aesherman6)
 [![@aesherman's Holopin board](https://holopin.io/api/user/board?user=aesherman)](https://holopin.io/@aesherman)
