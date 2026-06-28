@@ -1,5 +1,6 @@
+
 ### Hi there 👋
-<img width="200" height="200" alt="CCPF-sm" src="https://github.com/user-attachments/assets/6b1ec0a6-e775-4407-9a1e-b21864fda7f9" />
+<img width="200" height="200" alt="CCPF-sm" src="https://github.com/user-attachments/assets/6b1ec0a6-e775-4407-9a1e-b21864fda7f9" /><img width="200" height="200" alt="GAIP-sm" src="https://github.com/user-attachments/assets/7fa59e57-60f1-4c2c-bba5-2b4cf4beeb90" />
 
 
 <!--
