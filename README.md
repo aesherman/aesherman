@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/59abd216-8a0d-4d25-9f83-3cfbf5f00d48" />
+<img width="601" height="601" alt="blob" src="https://github.com/user-attachments/assets/3c593971-169d-4af9-a287-82d632905dee" />
 
 <!--
 **aesherman/aesherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
