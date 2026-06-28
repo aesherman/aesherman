@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img width="200" height="200" alt="ccpf" src="https://github.com/user-attachments/assets/59abd216-8a0d-4d25-9f83-3cfbf5f00d48" />
-<img width="200" height="200" alt="gaip" src="https://github.com/user-attachments/assets/3c593971-169d-4af9-a287-82d632905dee" />
+<img width="200" height="200" alt="CCPF-sm" src="https://github.com/user-attachments/assets/6b1ec0a6-e775-4407-9a1e-b21864fda7f9" />
+
 
 <!--
 **aesherman/aesherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
